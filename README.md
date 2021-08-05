@@ -1,5 +1,5 @@
 # PHP Spritesheet Splitter
-A rudimentary PHP tool to decompose PNG spritesheets into single transparent PNG sprite files ✂️
+A rudimentary PHP tool to decompose PNG spritesheets into single transparent PNG sprite files 
 
 ### Disclaimer
 
