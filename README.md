@@ -1,7 +1,7 @@
 # PHP Spritesheet Splitter
 A rudimentary PHP tool to **split spritesheets into single sprites**, each as transparent PNG sprite files.
 
-**Spritesheets can be arranged in any fashion, with individual sprites begin of various dimensions.**
+**Spritesheets can be arranged in any fashion, with individual sprites being of various dimensions.**
 
 ![tool example](https://github.com/BrunoGuerrero/spritesheet-splitter/blob/main/example.png?raw=true)
 
