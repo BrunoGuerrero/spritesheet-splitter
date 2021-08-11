@@ -1,6 +1,8 @@
 # PHP Spritesheet Splitter
 A rudimentary PHP tool to decompose PNG spritesheets into single transparent PNG sprite files 
 
+![tool example](https://github.com/BrunoGuerrero/spritesheet-splitter/blob/main/example.png?raw=true)
+
 ### Disclaimer
 
 This tool has been created for a specific need and therefore only works in some conditions :
