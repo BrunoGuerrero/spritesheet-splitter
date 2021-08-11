@@ -1,5 +1,5 @@
 # PHP Spritesheet Splitter
-A rudimentary PHP tool to **split spritesheets into single sprites**, each as transparent PNG sprite files.
+A simple PHP tool to **split spritesheets into single sprites**, each as transparent PNG sprite files.
 
 **Spritesheets can be arranged in any fashion, with individual sprites being of various dimensions.**
 
