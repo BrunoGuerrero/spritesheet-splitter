@@ -16,7 +16,7 @@ This tool has been created for a specifics needs in mind and therefore only work
 
 Simply store your spritesheet as `source.png` in the repository root folder, then call `index.php` from your browser or CGI client. All resulting sprites, as well as a copy of the original source, will be stored as individual PNG files in a timestamped folder, in the `output` directory.
 
-Sprites can be arranged in any fashion, so that even irregular spritesheets containing sprites of various dimensions can also be processed. Individual sprites are 
+Sprites can be arranged in any fashion, so that even irregular spritesheets containing sprites of various dimensions can also be processed.
 
 ## Using the spritesheet repacker
 
